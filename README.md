@@ -1,8 +1,6 @@
-# EduRAG Backend
+# EduRAG | LLM-Driven Tutor with Retrieval-Augmented Generation
 
-This is the backend API for the EduRAG webapp, built with FastAPI.
-
-## Setup
+## Backend Setup
 
 1. Install dependencies:
 
